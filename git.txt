@@ -1,0 +1,6 @@
+mkdir <reponame>
+cd <reponame>
+git init 
+touch <filename>.txt
+git add <filename>.txt
+git commit -m "message to tell you about change"
